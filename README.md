@@ -1,5 +1,7 @@
 # microkernel-library-system
 
-1 - Acesse o diretório microkernel (O último que tiver)
+Practical assignment for the INF008: Object-oriented programming (OOP) discipline.
+
+1 - Access the microkernel directory (the last one)
 2 - mvn install
 3 - mvn exec:java -pl app
